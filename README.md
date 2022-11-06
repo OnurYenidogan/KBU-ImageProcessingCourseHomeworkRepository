@@ -10,3 +10,4 @@ Part4 Week5
 ![8-bit Histogram Calculator ScreenShot1](https://user-images.githubusercontent.com/58027395/200180110-77e89b9f-68b5-4b70-a468-b5504d0c5818.jpg)
 ![8-bit Histogram Calculator ScreenShot2](https://user-images.githubusercontent.com/58027395/200180116-815a2aca-cdab-4664-849f-e09ae17da3b8.jpg)
 ![Contrast Stretching_pdf4_page18](https://user-images.githubusercontent.com/58027395/200180121-8242db0c-c57d-47ba-9caa-af3a5249f6ea.jpg)
+![Histogram](https://user-images.githubusercontent.com/58027395/200189874-819f8938-00e7-4f86-8e37-a03ac789e8fe.jpg)
