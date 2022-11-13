@@ -11,3 +11,8 @@
 ![8-bit Histogram Calculator ScreenShot2](https://user-images.githubusercontent.com/58027395/200180116-815a2aca-cdab-4664-849f-e09ae17da3b8.jpg)
 ![Contrast Stretching_pdf4_page18](https://user-images.githubusercontent.com/58027395/200180121-8242db0c-c57d-47ba-9caa-af3a5249f6ea.jpg)
 ![Histogram](https://user-images.githubusercontent.com/58027395/200189874-819f8938-00e7-4f86-8e37-a03ac789e8fe.jpg)
+## Part4 Week5
+![Ekran görüntüsü 2022-11-13 233251](https://user-images.githubusercontent.com/58027395/201543974-3e0b1620-6209-4f48-84e2-9494f25fa9a8.jpg)
+![Ekran görüntüsü 2022-11-13 233654](https://user-images.githubusercontent.com/58027395/201544012-58508522-d951-4b35-9da1-0928d719b32d.jpg)
+![Ekran görüntüsü 2022-11-13 232813](https://user-images.githubusercontent.com/58027395/201544017-b36ac227-3e18-41fa-980e-195ba6150045.jpg)
+![Ekran görüntüsü 2022-11-13 234804](https://user-images.githubusercontent.com/58027395/201544021-06ebacf9-fe48-4b6a-a284-9b32a580e5ac.jpg)
