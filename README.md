@@ -19,3 +19,4 @@
 ## Part6 Week7
 ![Ekran görüntüsü 2022-11-20 225134](https://user-images.githubusercontent.com/58027395/202923738-0c67c473-453c-4394-be87-cac44b60ec93.jpg)
 ![Ekran görüntüsü 2022-11-20 230429](https://user-images.githubusercontent.com/58027395/202923740-48df6039-7a57-4639-895b-4cd8d894a271.jpg)
+![Ekran görüntüsü 2022-11-20 231047](https://user-images.githubusercontent.com/58027395/202923841-1b391183-2b6b-40ec-8149-035bac30c3f9.jpg)
