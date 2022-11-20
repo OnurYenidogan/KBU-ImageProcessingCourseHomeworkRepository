@@ -16,3 +16,6 @@
 ![Ekran görüntüsü 2022-11-13 233654](https://user-images.githubusercontent.com/58027395/201544012-58508522-d951-4b35-9da1-0928d719b32d.jpg)
 ![Ekran görüntüsü 2022-11-13 232813](https://user-images.githubusercontent.com/58027395/201544017-b36ac227-3e18-41fa-980e-195ba6150045.jpg)
 ![Ekran görüntüsü 2022-11-13 234804](https://user-images.githubusercontent.com/58027395/201544021-06ebacf9-fe48-4b6a-a284-9b32a580e5ac.jpg)
+## Part6 Week7
+![Ekran görüntüsü 2022-11-20 225134](https://user-images.githubusercontent.com/58027395/202923738-0c67c473-453c-4394-be87-cac44b60ec93.jpg)
+![Ekran görüntüsü 2022-11-20 230429](https://user-images.githubusercontent.com/58027395/202923740-48df6039-7a57-4639-895b-4cd8d894a271.jpg)
