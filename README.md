@@ -26,4 +26,4 @@ Vize Öncesi Ödev
 ![3  Negatifini Alma Ekran görüntüsü 2022-11-24 195822](https://user-images.githubusercontent.com/58027395/203855645-1b5fe9b4-5ca4-41d4-9aaa-bd33334c4375.jpg)
 ![4 Ekran görüntüsü 2022-11-24 223026](https://user-images.githubusercontent.com/58027395/203854919-f4fc0644-bbd3-4a0d-a9e5-7fe823ee1610.jpg)
 ![6 Ekran görüntüsü 2022-11-24 222337](https://user-images.githubusercontent.com/58027395/203854924-2ab19b28-e106-4019-a933-d4aebb5fb669.jpg)
-![7  Ekran görüntüsü 2022-11-24 230922](https://user-images.githubusercontent.com/58027395/203857988-da746342-d61a-4f37-8f82-8301ab64cc98.jpg)
+![7  Ekran görüntüsü 2022-11-24 230922](https://user-images.githubusercontent.com/58027395/203858117-2e71aeff-a311-4a91-b75c-65614e4b2557.jpg)
