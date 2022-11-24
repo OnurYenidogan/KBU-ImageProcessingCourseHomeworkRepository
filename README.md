@@ -21,8 +21,9 @@
 ![Ekran görüntüsü 2022-11-20 230429](https://user-images.githubusercontent.com/58027395/202923740-48df6039-7a57-4639-895b-4cd8d894a271.jpg)
 ![Ekran görüntüsü 2022-11-20 231047](https://user-images.githubusercontent.com/58027395/202923841-1b391183-2b6b-40ec-8149-035bac30c3f9.jpg)
 Vize Öncesi Ödev
-![1Gamma Ekran görüntüsü 2022-11-24 001539](https://user-images.githubusercontent.com/58027395/203647537-9e1572f5-e5be-42da-90ef-fb5b0543fe8a.jpg)
-![2 Logaritmik Dönüşüm Ekran görüntüsü 2022-11-24 195324](https://user-images.githubusercontent.com/58027395/203854898-6502f082-0055-49b8-a3c2-9a432b294825.jpg)
-![3  Negatifini Alma Ekran görüntüsü 2022-11-24 195822](https://user-images.githubusercontent.com/58027395/203854913-b8a8aca5-263e-4903-bdf5-67361f0af4f0.jpg)
+![1Gamma Ekran görüntüsü 2022-11-24 001539](https://user-images.githubusercontent.com/58027395/203855633-94737eac-68a4-4ff0-b3ef-55eceb0d10f8.jpg)
+![2 Logaritmik Dönüşüm Ekran görüntüsü 2022-11-24 195324](https://user-images.githubusercontent.com/58027395/203855643-f03de30d-32d8-405b-97a4-3080b1753163.jpg)
+![3  Negatifini Alma Ekran görüntüsü 2022-11-24 195822](https://user-images.githubusercontent.com/58027395/203855645-1b5fe9b4-5ca4-41d4-9aaa-bd33334c4375.jpg)
 ![4 Ekran görüntüsü 2022-11-24 223026](https://user-images.githubusercontent.com/58027395/203854919-f4fc0644-bbd3-4a0d-a9e5-7fe823ee1610.jpg)
 ![6 Ekran görüntüsü 2022-11-24 222337](https://user-images.githubusercontent.com/58027395/203854924-2ab19b28-e106-4019-a933-d4aebb5fb669.jpg)
+
