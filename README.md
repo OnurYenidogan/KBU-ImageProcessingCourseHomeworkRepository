@@ -27,5 +27,11 @@
 ![4 Ekran görüntüsü 2022-11-24 223026](https://user-images.githubusercontent.com/58027395/203854919-f4fc0644-bbd3-4a0d-a9e5-7fe823ee1610.jpg)
 ![6 Ekran görüntüsü 2022-11-24 222337](https://user-images.githubusercontent.com/58027395/203854924-2ab19b28-e106-4019-a933-d4aebb5fb669.jpg)
 ![7  Ekran görüntüsü 2022-11-24 230922](https://user-images.githubusercontent.com/58027395/203858117-2e71aeff-a311-4a91-b75c-65614e4b2557.jpg)
-## Part7 Week9
+## Part7-Part8 Week9
 ![Ekran görüntüsü 2022-12-10 131813](https://user-images.githubusercontent.com/58027395/206849859-9298136d-dc2e-406d-b4dd-da1bb3ea6a74.jpg)
+## Part9 Week10
+![Ekran görüntüsü 2022-12-16 141850](https://user-images.githubusercontent.com/58027395/208090521-39c47abd-d312-4af2-9778-61156ff4635a.jpg)
+![Ekran görüntüsü 2022-12-16 141241](https://user-images.githubusercontent.com/58027395/208090537-50ddcf82-12f4-4f7d-b821-58fd181680ea.jpg)
+![Ekran görüntüsü 2022-12-16 142404](https://user-images.githubusercontent.com/58027395/208090543-856874c7-3dd6-488a-9aa6-8fe3296829f7.jpg)
+Bonus 😁
+![Ekran görüntüsü 2022-12-16 123907](https://user-images.githubusercontent.com/58027395/208090554-c0d4bdf2-e89a-4fad-b9c3-152aa8027453.jpg)
