@@ -33,5 +33,5 @@
 ![Ekran görüntüsü 2022-12-16 141850](https://user-images.githubusercontent.com/58027395/208090521-39c47abd-d312-4af2-9778-61156ff4635a.jpg)
 ![Ekran görüntüsü 2022-12-16 141241](https://user-images.githubusercontent.com/58027395/208090537-50ddcf82-12f4-4f7d-b821-58fd181680ea.jpg)
 ![Ekran görüntüsü 2022-12-16 142404](https://user-images.githubusercontent.com/58027395/208090543-856874c7-3dd6-488a-9aa6-8fe3296829f7.jpg)
-Bonus 😁
+Bonus 😁 Müthiş Tipim
 ![Ekran görüntüsü 2022-12-16 123907](https://user-images.githubusercontent.com/58027395/208090554-c0d4bdf2-e89a-4fad-b9c3-152aa8027453.jpg)
